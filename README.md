@@ -16,17 +16,7 @@ It's possible to run the game directly in your browser by clicking the hyperlink
 * [Memory](http://www.codeskulptor.org/#user42_6DloZwBbeKNFzjv.py)
  - The first player chooses a card and then selects another card and turns it over. If they match, they remain side up.  If not, they are turned back over. One all the cards have been played, the game is over.
 * [Rock-Paper-Scissor-Lizard-Spock](http://www.codeskulptor.org/#user42_xgTeQFDX5HqgB7q.py)
- - The game is an expansion on the game Rock, Paper, Scissors. Each player picks a variable and reveals it at the same time. The winner is the one who defeats the others. The rules are:
-   - Scissors cuts Paper
-   - Paper covers Rock
-   - Rock crushes Lizard
-   - Lizard poisons Spock
-   - Spock smashes Scissors
-   - Scissors decapitates Lizard
-   - Lizard eats Paper
-   - Paper disproves Spock
-   - Spock vaporizes Rock
-   - (and as it always has) Rock crushes Scissors
+ - The game is an expansion on the game Rock, Paper, Scissors. Each player picks a variable and reveals it at the same time. The winner is the one who defeats the others. The rules are: Scissors cuts Paper, Paper covers Rock, Rock crushes Lizard, Lizard poisons Spock, Spock smashes Scissors, Scissors decapitates Lizard, Lizard eats Paper, Paper disproves Spock, Spock vaporizes Rock, (and as it always has) Rock crushes Scissors
 * [Stopwatch](http://www.codeskulptor.org/#user42_CetsPOSQfWIURfH.py)
  - Game with a digital stopwatch that keeps track of the time in tenths of a second. If the user stop the watch when the tenth of a second is equal to zero (0), the player gets a point.
 * [The Fifteen Puzzle](http://www.codeskulptor.org/#user42_ovWofUC2cB7R3GR.py)
